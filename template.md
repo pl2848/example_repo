@@ -1,7 +1,7 @@
 Simple document0915
 ================
 
-I’m an R Markdown document!
+I’m an R Markdown document! New
 
 # Section 1
 
@@ -16,7 +16,7 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is -0.02.
+I can take the mean of the sample, too! The mean is 0.02.
 
 # Section 3
 
